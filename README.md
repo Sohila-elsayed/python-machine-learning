@@ -25,15 +25,15 @@ which represent missing or incorrect data entries. This ensures the analysis is 
 
 ## Key Concepts Demonstrated :-
 
-1. Data Cleaning and Preprocessing
+* Data Cleaning and Preprocessing
 
-2. Data Grouping and Aggregation
+* Data Grouping and Aggregation
 
-3. Conditional Filtering
+* Conditional Filtering
 
-4. Basic Exploratory Data Analysis (EDA)
+* Basic Exploratory Data Analysis (EDA)
 
-5. Working with real-world datasets using Pandas
+* Working with real-world datasets using Pandas
 
 ## Tools & Technologies :-
 Python
