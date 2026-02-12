@@ -12,28 +12,28 @@ which represent missing or incorrect data entries. This ensures the analysis is 
 ## Analysis Performed 
 ### The project includes:
 
-1.Extracting and previewing key time-related columns (Month and Year).
+1. Extracting and previewing key time-related columns (Month and Year).
 
-2.Calculating the average temperature per year to observe long-term trends.
+2. Calculating the average temperature per year to observe long-term trends.
 
-3.Calculating the average temperature per month to analyze seasonal patterns.
+3. Calculating the average temperature per month to analyze seasonal patterns.
 
-4.Identifying extremely hot days by applying a threshold of 100°F.
+4. Identifying extremely hot days by applying a threshold of 100°F.
 
-5.Counting and displaying records of days that exceed this extreme temperature threshold.
+5. Counting and displaying records of days that exceed this extreme temperature threshold.
 
 
 ## Key Concepts Demonstrated :-
 
-1.Data Cleaning and Preprocessing
+1. Data Cleaning and Preprocessing
 
-2.Data Grouping and Aggregation
+2. Data Grouping and Aggregation
 
-3.Conditional Filtering
+3. Conditional Filtering
 
-4.Basic Exploratory Data Analysis (EDA)
+4. Basic Exploratory Data Analysis (EDA)
 
-5.Working with real-world datasets using Pandas
+5. Working with real-world datasets using Pandas
 
 ## Tools & Technologies :-
 Python
