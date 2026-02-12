@@ -36,9 +36,9 @@ which represent missing or incorrect data entries. This ensures the analysis is 
 * Working with real-world datasets using Pandas
 
 ## Tools & Technologies :
-Python
-Pandas
+* Python
+* Pandas
 
-## Conclusion
+## Conclusion :
 This project highlights foundational data analysis skills, including handling missing data, performing grouped statistical analysis,
 and extracting insights from structured datasets. It is suitable as a beginner-level data analysis portfolio project.
